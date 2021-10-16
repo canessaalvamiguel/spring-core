@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-data-jpa" />
+        <module name="ms-accounts-server" />
+        <module name="spring-data-jpa-solution" />
+        <module name="aop" />
+        <module name="tx" />
+        <module name="ms-discovery-server" />
+        <module name="jdbc-solution" />
+        <module name="ms-web-client" />
+        <module name="annotations" />
+        <module name="jdbc" />
+        <module name="rewards-common" />
+        <module name="xml-di" />
+        <module name="mvc-no-boot" />
+        <module name="jpa-solution" />
+        <module name="jms" />
+        <module name="xml-dependency-injection-best-practices" />
+        <module name="security" />
+        <module name="javaconfig-dependency-injection-solution" />
+        <module name="rest-ws-solution" />
+        <module name="jmx" />
+        <module name="annotations-solution" />
+        <module name="jpa" />
+        <module name="spring-intro-solution" />
+        <module name="mvc" />
+        <module name="rewards-db" />
+        <module name="rest-ws" />
+        <module name="ms-web-client-solution" />
+        <module name="xml-dependency-injection-best-practices-solution" />
+        <module name="tx-solution" />
+        <module name="jmx-solution" />
+        <module name="mvc-no-boot-solution" />
+        <module name="reactive-spring" />
+        <module name="test" />
+        <module name="mvc-solution" />
+        <module name="spring-intro" />
+        <module name="ms-discovery-server-solution" />
+        <module name="aop-solution" />
+        <module name="reactive-spring-solution" />
+        <module name="security-solution" />
+        <module name="javaconfig-dependency-injection" />
+        <module name="jms-solution" />
+        <module name="xml-di-solution" />
+        <module name="ms-accounts-server-solution" />
+        <module name="test-solution" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="annotations" options="-parameters" />
+      <module name="annotations-solution" options="-parameters" />
+      <module name="aop" options="-parameters" />
+      <module name="aop-solution" options="-parameters" />
+      <module name="javaconfig-dependency-injection" options="-parameters" />
+      <module name="javaconfig-dependency-injection-solution" options="-parameters" />
+      <module name="jdbc" options="-parameters" />
+      <module name="jdbc-solution" options="-parameters" />
+      <module name="jms" options="-parameters" />
+      <module name="jms-solution" options="-parameters" />
+      <module name="jmx" options="-parameters" />
+      <module name="jmx-solution" options="-parameters" />
+      <module name="jpa" options="-parameters" />
+      <module name="jpa-solution" options="-parameters" />
+      <module name="ms-accounts-server" options="-parameters" />
+      <module name="ms-accounts-server-solution" options="-parameters" />
+      <module name="ms-discovery-server" options="-parameters" />
+      <module name="ms-discovery-server-solution" options="-parameters" />
+      <module name="ms-web-client" options="-parameters" />
+      <module name="ms-web-client-solution" options="-parameters" />
+      <module name="mvc" options="-parameters" />
+      <module name="mvc-no-boot" options="-parameters" />
+      <module name="mvc-no-boot-solution" options="-parameters" />
+      <module name="mvc-solution" options="-parameters" />
+      <module name="reactive-spring" options="-parameters" />
+      <module name="reactive-spring-solution" options="-parameters" />
+      <module name="rest-ws" options="-parameters" />
+      <module name="rest-ws-solution" options="-parameters" />
+      <module name="rewards-common" options="-parameters" />
+      <module name="rewards-db" options="-parameters" />
+      <module name="security" options="-parameters" />
+      <module name="security-solution" options="-parameters" />
+      <module name="spring-data-jpa" options="-parameters" />
+      <module name="spring-data-jpa-solution" options="-parameters" />
+      <module name="spring-intro" options="-parameters" />
+      <module name="spring-intro-solution" options="-parameters" />
+      <module name="test" options="-parameters" />
+      <module name="test-solution" options="-parameters" />
+      <module name="tx" options="-parameters" />
+      <module name="tx-solution" options="-parameters" />
+      <module name="xml-dependency-injection-best-practices" options="-parameters" />
+      <module name="xml-dependency-injection-best-practices-solution" options="-parameters" />
+      <module name="xml-di" options="-parameters" />
+      <module name="xml-di-solution" options="-parameters" />
+    </option>
+  </component>
+</project>

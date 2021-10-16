@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/annotations-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/annotations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aop-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaconfig-dependency-injection-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaconfig-dependency-injection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdbc-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jms-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jmx-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jmx/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-accounts-server-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-accounts-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-discovery-server-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-discovery-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-web-client-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-web-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvc-no-boot-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvc-no-boot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvc-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reactive-spring-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reactive-spring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-ws-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-ws/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rewards-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rewards-db/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-data-jpa-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-data-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-intro-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-intro/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tx-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tx/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xml-dependency-injection-best-practices-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xml-dependency-injection-best-practices/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xml-di-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xml-di/src/main/java" charset="UTF-8" />
+  </component>
+</project>
